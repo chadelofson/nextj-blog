@@ -40,7 +40,7 @@ function Layout({ children, home }) {
             <Link href='/'>
               <a>
                 <img
-                  src='/images/profile.jpg'
+                  src='/images/profile.jpeg'
                   className={`${styles.headerImage} ${utilStyles.borderCircle}`}
                   alt={name}
                 />
